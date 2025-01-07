@@ -8,6 +8,8 @@
 📊 Experienced in **Data Analytics**, leveraging **Python**, **Pandas**, and **Excel** to turn data into insights.  
 🚀 Exploring the future of **AI** and committed to mastering **system design** and **optimization**.
 
+---
+
 📍 Based in **West Bengal, India**.
 
 ---
