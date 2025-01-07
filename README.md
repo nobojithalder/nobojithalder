@@ -1,20 +1,17 @@
-# Hi there! I'm Nobojit!👋
+# Hi, I'm Nobojit! 👋  
 
-⚡ **Debugging life, one problem at a time.**
+⚡ **Debugging life, one problem at a time.**  
 
-💻 **Python enthusiast** with a diverse programming experience in **C++**, **Java**, **JavaScript**, and **PHP**.  
-🧩 Currently solving the **top 1000 programming problems** on LeetCode and sharpening my skills in **Algorithms** and **Data Structures**.  
-🌐 Passionate about building **Web Apps** and creating **Real-world tools** that simplify everyday tasks.  
-📊 Experienced in **Data Analytics**, leveraging **Python**, **Pandas**, and **Excel** to turn data into insights.  
-🚀 Exploring the future of **AI** and committed to mastering **system design** and **optimization**.
+💻 **Python enthusiast** with versatile programming experience in **C++**, **Java**, **JavaScript**, and **PHP**.  
+🧩 On a mission to solve the **top 1000 LeetCode problems**, refining my expertise in **Algorithms** and **Data Structures** along the way.  
+🌐 Passionate about crafting **Web Applications** and building **Practical Tools** to simplify everyday life.  
+📊 Skilled in **Data Analytics**, adept at transforming raw data into actionable insights using **Python**, **Pandas**, and **Excel**.  
+🚀 Fascinated by the limitless potential of **AI**, actively exploring **System Design**, **Optimization**, and future-forward technologies.  
 
----
-
-📍 Based in **West Bengal, India**.
+📍 **Based in West Bengal, India.**  
 
 ---
 
-Feel free to check out my repositories and connect with me!
-
-📫 **Contact me**:  
-- [Email](mailto:contact@nobojithalder.com)
+### Let's Connect!  
+📫 **Reach out to me**:  
+- [Email](mailto:contact@nobojithalder.com)  
