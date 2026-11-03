@@ -2,41 +2,49 @@
 
 # Nobojit Halder
 
-**Software developer building practical tools with Python**
+**Software Developer · Python · C++ · JavaScript**
 
-Desktop utilities · Web applications · Data visualization
+I build practical desktop apps and browser tools with thoughtful, user-focused interfaces.
 
-<a href="https://github.com/nobojithalder/Directory-Visualizer">
-  <img src="https://raw.githubusercontent.com/nobojithalder/Directory-Visualizer/main/docs/screenshot-treemap-dark.png" alt="Directory Visualizer treemap" width="760">
-</a>
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/youtube-grid-enhanced/cjoeoojamjihfgdgdjdelncofflhpflb)
 
 </div>
 
-## Featured project
+## Featured work
 
-### [Directory Visualizer](https://github.com/nobojithalder/Directory-Visualizer)
+<table>
+<tr>
+<td width="50%" valign="top">
+<p align="center"><strong>DESKTOP APP</strong></p>
+<h3 align="center">📊 Directory Visualizer</h3>
+<a href="https://github.com/nobojithalder/Directory-Visualizer"><img src="https://raw.githubusercontent.com/nobojithalder/Directory-Visualizer/main/docs/screenshot-treemap-dark.png" alt="Directory Visualizer treemap" width="100%"></a>
+<p>Explore disk usage, find large and duplicate files, and understand a folder at a glance.</p>
+<p><strong>Python · Tkinter · Matplotlib</strong></p>
+<p><a href="https://github.com/nobojithalder/Directory-Visualizer">Source code</a> · <a href="https://github.com/nobojithalder/Directory-Visualizer/releases/latest">Windows release</a></p>
+</td>
+<td width="50%" valign="top">
+<p align="center"><strong>CHROME EXTENSION</strong></p>
+<h3 align="center">🧩 YouTube Grid Enhanced</h3>
+<a href="https://github.com/nobojithalder/youtube-grid-enhanced"><img src="https://raw.githubusercontent.com/nobojithalder/youtube-grid-enhanced/main/screenshots/before-after.jpg" alt="YouTube Grid Enhanced before and after" width="100%"></a>
+<p>Customize YouTube’s video grid, reduce distractions, and keep playback controls close by.</p>
+<p><strong>Grid layout · Player controls · Personalization</strong></p>
+<p><a href="https://chromewebstore.google.com/detail/youtube-grid-enhanced/cjoeoojamjihfgdgdjdelncofflhpflb">Chrome Web Store</a> · <a href="https://github.com/nobojithalder/youtube-grid-enhanced">Project page & support</a></p>
+</td>
+</tr>
+</table>
 
-A Windows desktop app for understanding disk usage and finding large or duplicate files.
+## Toolkit
 
-- Explore folder sizes with sortable views and an interactive treemap
-- Review large files, old files, file types, and duplicate candidates
-- Scan in the background, cancel scans, and export views to CSV
-- Built with Python, Tkinter, and Matplotlib
-
-[Source code](https://github.com/nobojithalder/Directory-Visualizer) · [Windows release](https://github.com/nobojithalder/Directory-Visualizer/releases/latest)
+**Languages:** Python · C++ · JavaScript · Java · PHP  
+**Libraries & tools:** Tkinter · Matplotlib · Pandas · Excel
 
 ## About
 
-I enjoy building useful software with clear interfaces and thoughtful behavior. My interests include desktop and web applications, algorithms, and developer tools.
-
-## More tools I use
-
-Java · PHP · Pandas · Excel
+I enjoy turning everyday friction into useful software. I care about clear interfaces, reliable behavior, and building tools that make people’s everyday tasks easier.
 
 ## Connect
 
-[Email](mailto:contact@nobojithalder.com) · [X](https://x.com/nobojithalder)
+[Website](https://nobojithalder.com) · [Email](mailto:contact@nobojithalder.com) · [X](https://x.com/nobojithalder)
