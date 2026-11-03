@@ -1,17 +1,27 @@
-# Hi, I'm Nobojit! 👋  
+# Nobojit Halder
 
-⚡ **Debugging life, one problem at a time.**  
+### Software developer · Python, C++, JavaScript
 
-💻 **Python enthusiast** with versatile programming experience in **C++**, **Java**, **JavaScript**, and **PHP**.  
-🧩 On a mission to solve the **top 1000 LeetCode problems**, refining my expertise in **Algorithms** and **Data Structures** along the way.  
-🌐 Passionate about crafting **Web Applications** and building **Practical Tools** to simplify everyday life.  
-📊 Skilled in **Data Analytics**, adept at transforming raw data into actionable insights using **Python**, **Pandas**, and **Excel**.  
-🚀 Fascinated by the limitless potential of **AI**, actively exploring **System Design**, **Optimization**, and future-forward technologies.  
+I build practical software that solves real problems, with a focus on desktop utilities, web applications, and data tools.
 
-📍 **Based in West Bengal, India.**  
+## Featured project
 
----
+### [Directory Visualizer](https://github.com/nobojithalder/Directory-Visualizer)
 
-### Let's Connect!  
-📫 **Reach out to me**:  
-- [Email](mailto:contact@nobojithalder.com)  
+A Windows desktop tool for exploring disk usage and finding large or duplicate files.
+
+- Visualize directory sizes with a treemap
+- Identify large files and duplicate files
+- Built with Python, Tkinter, and Matplotlib
+
+## Tools & technologies
+
+Python · C++ · JavaScript · Java · PHP · Pandas · Excel
+
+## Areas of interest
+
+Application design · Algorithms · Developer tools
+
+## Contact
+
+[Email](mailto:contact@nobojithalder.com) · [X](https://x.com/nobojithalder)
