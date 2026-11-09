@@ -17,11 +17,12 @@ I build practical desktop apps and browser tools with thoughtful, user-focused i
 
 | Project | What it does | Links |
 | --- | --- | --- |
-| 📝 [Markspace](https://github.com/nobojithalder/Markspace) | Markdown workspace with live preview, local autosave, and export. | [Live demo](https://markspace.nobojit.com/) · [Source](https://github.com/nobojithalder/Markspace) |
-| 🖼️ [Still](https://github.com/nobojithalder/Still) | Resize and reduce JPEG, PNG, and WebP images in your browser. | [Live demo](https://still.nobojit.com/) · [Source](https://github.com/nobojithalder/Still) |
-| 🧹 [Cleartext](https://github.com/nobojithalder/Cleartext) | Clean copied text and review writing patterns; drafts stay in your browser. | [Live demo](https://cleartext.nobojit.com/) · [Source](https://github.com/nobojithalder/Cleartext) |
-| 📊 [Directory Visualizer](https://github.com/nobojithalder/Directory-Visualizer) | Explore disk usage and find large or duplicate files. | [Windows release](https://github.com/nobojithalder/Directory-Visualizer/releases/latest) · [Source](https://github.com/nobojithalder/Directory-Visualizer) |
-| ▶️ [YouTube Grid Enhanced](https://github.com/nobojithalder/youtube-grid-enhanced) | Customize YouTube’s video grid and keep player controls close by. | [Chrome Web Store](https://chromewebstore.google.com/detail/youtube-grid-enhanced/cjoeoojamjihfgdgdjdelncofflhpflb) · [Project page](https://github.com/nobojithalder/youtube-grid-enhanced) |
+| 🔤&nbsp;[Wordshift](https://github.com/nobojithalder/Wordshift) | Convert text case, apply Unicode styles, and edit documents with live diffs. | [Live demo](https://wordshift.nobojit.com/) · [Source](https://github.com/nobojithalder/Wordshift) |
+| 📝&nbsp;[Markspace](https://github.com/nobojithalder/Markspace) | Markdown workspace with live preview, local autosave, and export. | [Live demo](https://markspace.nobojit.com/) · [Source](https://github.com/nobojithalder/Markspace) |
+| 🖼️&nbsp;[Still](https://github.com/nobojithalder/Still) | Resize and reduce JPEG, PNG, and WebP images in your browser. | [Live demo](https://still.nobojit.com/) · [Source](https://github.com/nobojithalder/Still) |
+| 🧹&nbsp;[Cleartext](https://github.com/nobojithalder/Cleartext) | Clean copied text and review writing patterns; drafts stay in your browser. | [Live demo](https://cleartext.nobojit.com/) · [Source](https://github.com/nobojithalder/Cleartext) |
+| 📊&nbsp;[Directory&nbsp;Visualizer](https://github.com/nobojithalder/Directory-Visualizer) | Explore disk usage and find large or duplicate files. | [Windows release](https://github.com/nobojithalder/Directory-Visualizer/releases/latest) · [Source](https://github.com/nobojithalder/Directory-Visualizer) |
+| ▶️&nbsp;[YouTube&nbsp;Grid&nbsp;Enhanced](https://github.com/nobojithalder/youtube-grid-enhanced) | Customize YouTube’s video grid and keep player controls close by. | [Chrome Web Store](https://chromewebstore.google.com/detail/youtube-grid-enhanced/cjoeoojamjihfgdgdjdelncofflhpflb) · [Source](https://github.com/nobojithalder/youtube-grid-enhanced) |
 
 ## Stack
 
